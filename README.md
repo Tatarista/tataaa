@@ -132,5 +132,7 @@ Constributor | For Help |
 For Help | Owner Chikabot |
 <a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![ZEEONE](http://github.com/zeeone-ofc.png?size=100)](http://github.com/zeeone-ofc) 
 [Adiwajshing](https://github.com/adiwajshing) | [zeeone-ofc](https://zeeone-ofc.github.io)
-Owner of Baileys | Owner of Api Alphabot |
+Owner of Baileys | Owner of Api Alphabot 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Tatarista/tataaa/)|
 
